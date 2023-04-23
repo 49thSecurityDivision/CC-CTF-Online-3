@@ -5,8 +5,8 @@ CTF challenges from CarolinaCon Online April 21 through April 23, 2023. All chal
 Do you see an error in a challenge or want to add a write-up? We accept forks
 
 ## Contributors
-wonkeymonkey
-vr0n
-wesr
-mtagius
-trvon
+- wonkeymonkey
+- vr0n
+- wesr
+- mtagius
+- trvon
