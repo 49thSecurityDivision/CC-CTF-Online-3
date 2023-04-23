@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+label {
+    display: block;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+input[type="submit"] {
+    display: block;
+    width: 100%;
+    padding: 8px;
+    background-color: #333;
+    color: #fff;
+    cursor: pointer;
+}
+
