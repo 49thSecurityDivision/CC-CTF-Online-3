@@ -6,6 +6,7 @@ Do you see an error in a challenge or want to add a write-up? We accept forks
 
 ## Contributors
 - wonkeymonkey
+- titan
 - vr0n
 - wesr
 - mtagius
