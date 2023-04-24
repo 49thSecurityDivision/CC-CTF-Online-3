@@ -1,1 +1,0 @@
-Our flags are encrypted and classified, but the messages containing them can be declassified. For example, if we wanted to share this message, we have to remove the flag, like so: XXXXXXXXXXXXXXXXXXXX

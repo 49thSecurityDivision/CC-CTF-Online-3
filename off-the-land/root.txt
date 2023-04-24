@@ -1,1 +1,0 @@
-Flag{from_socat_to_root_with_<3}
