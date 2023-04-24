@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{{ url_for('static', filename= 'css/style.css') }}">
+    <title>Evil Eyes</title>
+</head>
+<body>
+    <h1>Evil Eyes Testing Server</h1>
+    <p>*PLEASE* don't expose this to the public internet...<br>
+    We should only be testing the file listing code internally...</p>
+    <form method="POST" action="" enctype="multipart/form-data">
+      <p><input type="file" name="file"></p>
+      <p><input type="submit" value="Submit"></p>
+    </form>
+</body>
+</html>
