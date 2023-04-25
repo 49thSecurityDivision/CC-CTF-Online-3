@@ -11,3 +11,4 @@ Do you see an error in a challenge or want to add a write-up? We accept forks
 - wesr
 - mtagius
 - trvon
+- poolboi
