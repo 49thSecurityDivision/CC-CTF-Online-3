@@ -4,6 +4,6 @@
 
 # Prompt
 
-We've been passing encrypted zip files back and forth holding flags... But, vr0n has been posting on social media again...
+Where was this photo taken? Format your answer as a `What3Words` location.
 
-**NOTE:** This flag is not in the `flag{...}` format, but in the `ctf{...}` format
+Example: `flag{store.scrap.robot}`
